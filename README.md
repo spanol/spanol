@@ -1,7 +1,7 @@
 
 ```javascript
 var spanol = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   technologies: Backend, Frontend,
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [React, Angular, Redux, Node, Styled-Components, Docker],
