@@ -1,12 +1,9 @@
 
 ```javascript
 var spanol = {
-  pronouns: "he" | "him",
   technologies: Backend, Frontend,
-  code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [React, Angular, Redux, Node, Styled-Components, Docker],
-  challenge: "Aproveitando o inicio de 2022 me propus o desafio de efetuar 365 commits nesses próximos 365 dias.",
-  focus: "Estou codando todos os dias, estou me esforçando ao máximo todos os dias pois se eu ainda não consegui minha vaga, quando conseguir pretendo ser o melhor desenvolvedor possivel."
+  mainLanguage: [Typescript],
+  challenge: "Always be better",
 }
 ```
 <div>
