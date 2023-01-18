@@ -1,7 +1,7 @@
 
 ```javascript
 var spanol = {
-  technologies: Backend, Frontend,
+  technologies: "Backend, Frontend",
   mainLanguage: [Typescript],
   challenge: "Always be better",
 }
