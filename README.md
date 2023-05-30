@@ -12,7 +12,7 @@ Formado em desenvolvimento web fullstack pela Blue Ed Tech, estou sempre buscand
 - ![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 
 ## 📈 Estatísticas do GitHub
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusspanol&show_icons=true&theme=radical)
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=spanol&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
 - 🌐 [LinkedIn](https://www.linkedin.com/in/viniciusspanol/)
