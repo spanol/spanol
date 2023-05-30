@@ -15,7 +15,7 @@ Formado em desenvolvimento web fullstack pela Blue Ed Tech, estou sempre buscand
 ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=spanol&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
-- 🌐 [LinkedIn](https://www.linkedin.com/in/viniciusspanol/)
-- 📧 Email: vinicius.spanol@email.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-spanol/)
+- 📧 Email: viniciusspanol@gmail.com
 
 Sinta-se à vontade para entrar em contato!
