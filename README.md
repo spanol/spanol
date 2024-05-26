@@ -1,7 +1,7 @@
-# Olá, mundo! 👋 Eu sou Vinicius Spanol
+# Boas vindas!
 
-## Sobre Mim
-Sou um desenvolvedor fullstack com um ano de experiência profissional, apaixonado por criar soluções inovadoras e eficientes. Atualmente, estou trabalhando em um aplicativo multiplataforma, utilizando Angular no front-end web, Ionic no mobile e C# .NET 4.5 no back-end.
+## Sobre
+Sou um desenvolvedor fullstack com dois ano de experiência profissional, apaixonado por criar soluções inovadoras e eficientes. Atualmente, estou trabalhando em um aplicativo multiplataforma, utilizando Angular no front-end web, Ionic no mobile e C# .NET 4.5 no back-end.
 
 Formado em desenvolvimento web fullstack pela Blue Ed Tech, estou sempre buscando expandir meu conhecimento e habilidades. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
