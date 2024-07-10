@@ -1,15 +1,3 @@
-Sou um desenvolvedor fullstack com dois anos de experiência profissional, apaixonado por criar soluções inovadoras e eficientes.
-
-Meu último trabalho remunerado foi para a empresa startup chamada VSA SOFTWARE, onde trabalhei dando manutenção e implementando novas funcionalidades em dois aplicativos. Um deles foi o Zast, uma plataforma de delivery similar ao iFood, que visava atuar em áreas menores onde o iFood não atuava, cobrando taxas menores e dando oportunidades para comércios locais se destacarem. No Zast, utilizei Angular no front-end web, Ionic no mobile e C# .NET 6.0 no back-end. Trabalhar com um aplicativo dessa complexidade foi incrível, alavancou minha carreira e ampliou muito meus conhecimentos sobre programação.
-
-O outro aplicativo foi o FlixPet, uma plataforma de serviços de petshop. Nela, utilizávamos Angular para o front-end web e AdonisJs para o back-end. Foi minha primeira experiência com o AdonisJs e uma ótima oportunidade para desenvolver minhas habilidades de back-end conhecendo uma nova tecnologia.
-
-Ainda na VSA, criei do zero o site Festival de Delivery, um site promocional para o Zast que lista todas as promoções disponíveis perto do cliente. Nessa aplicação, utilizei Vue 3 pela primeira vez, uma framework muito interessante de se trabalhar, consumindo a API já existente em .NET.
-
-Sou formado em desenvolvimento web fullstack pela BLUE EDTECH. Esse curso durou 12 meses, sendo que 6 meses foram dedicados a hard skills (programação e suas aplicações). No primeiro mês, aprendi o básico de lógica de programação utilizando C#. No segundo mês, aprendemos HTML, CSS e JavaScript, e a partir do quarto mês, aprendemos a criar aplicações web fullstack utilizando as principais ferramentas do mercado na época. Aprendi React para o front-end e NodeJs com Express para o back-end. Nos quarto e quinto meses, aprendi a criar APIs robustas utilizando o NestJs. Nos últimos 6 meses, desenvolvi soft skills essenciais, incluindo comunicação eficaz, trabalho em equipe, resolução de problemas, gerenciamento de tempo e adaptabilidade. Estou sempre buscando expandir meus conhecimentos e habilidades.
-
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela faculdade Descomplica. Isso me fez revisitar muitos conceitos que já estudei na BLUE e de forma autodidata, além de conhecer novas tecnologias recentemente, como o Docker, que nunca havia utilizado. Também aprendi a criar minhas pipelines de CI/CD.
-
 ## 👨‍🏭 Experiência Profissional
 VSA SOFTWARE
 
